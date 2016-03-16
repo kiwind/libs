@@ -2,4 +2,4 @@
 常用工具类
 
 
-[Moment.js](http://momentjs.cn):JavaScript 日期处理类库
+[Moment.js](http://momentjs.cn){:target="_blank"}: JavaScript 日期处理类库
