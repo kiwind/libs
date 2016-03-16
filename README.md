@@ -5,3 +5,5 @@
 [Moment.js](http://momentjs.cn): JavaScript 日期处理类库
 
 [Lodash](https://lodash.com/): JavaScript工具库
+
+node server orm: Waterline.js和Bookshelf.js
